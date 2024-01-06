@@ -7,9 +7,9 @@
         "default_popup": "index.html"
     },
     "icons": {
-        "16": "assets/img/16.png",
-        "32": "assets/img/32.png",
-        "48": "assets/img/48.png",
-        "128": "assets/img/128png"
+        "16": "assets/img/appIcons/16.png",
+        "32": "assets/img/appIcons/32.png",
+        "48": "assets/img/appIcons/48.png",
+        "128": "assets/img/appIcons/128.png"
     }
 }
